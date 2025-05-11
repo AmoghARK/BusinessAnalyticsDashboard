@@ -1,0 +1,81 @@
+Segment,Age Group,Channel,Satisfaction,Customer Count,Average Spend
+New,18-24,Online,2.1,221,159.45
+New,18-24,In-Store,2.0,177,90.73
+New,18-24,Mobile App,2.0,238,85.76
+New,18-24,Phone,2.3,379,83.36
+New,25-34,Online,2.0,206,139.44
+New,25-34,In-Store,2.3,388,98.54
+New,25-34,Mobile App,2.2,166,96.34
+New,25-34,Phone,2.5,356,52.61
+New,35-44,Online,2.1,255,63.76
+New,35-44,In-Store,1.9,376,150.19
+New,35-44,Mobile App,2.3,279,120.26
+New,35-44,Phone,2.2,280,109.81
+New,45-54,Online,2.0,175,94.95
+New,45-54,In-Store,2.1,354,193.67
+New,45-54,Mobile App,2.0,226,86.3
+New,45-54,Phone,2.4,382,63.24
+New,55+,Online,2.1,285,115.76
+New,55+,In-Store,2.3,384,97.79
+New,55+,Mobile App,2.4,266,113.24
+New,55+,Phone,2.2,346,103.73
+Returning,18-24,Online,2.4,403,96.16
+Returning,18-24,In-Store,2.3,362,193.65
+Returning,18-24,Mobile App,2.5,382,132.34
+Returning,18-24,Phone,2.4,383,108.53
+Returning,25-34,Online,2.4,430,122.92
+Returning,25-34,In-Store,2.4,427,142.54
+Returning,25-34,Mobile App,2.4,424,126.22
+Returning,25-34,Phone,2.7,327,122.54
+Returning,35-44,Online,2.2,262,110.25
+Returning,35-44,In-Store,2.4,252,156.94
+Returning,35-44,Mobile App,2.3,424,78.59
+Returning,35-44,Phone,2.7,385,77.06
+Returning,45-54,Online,2.2,222,111.8
+Returning,45-54,In-Store,2.4,356,150.57
+Returning,45-54,Mobile App,2.4,292,89.61
+Returning,45-54,Phone,2.4,372,137.42
+Returning,55+,Online,2.3,333,174.69
+Returning,55+,In-Store,2.2,504,96.43
+Returning,55+,Mobile App,2.4,403,126.56
+Returning,55+,Phone,2.8,319,85.28
+Loyal,18-24,Online,2.6,320,79.63
+Loyal,18-24,In-Store,2.5,513,139.55
+Loyal,18-24,Mobile App,2.9,231,26.59
+Loyal,18-24,Phone,2.8,398,113.05
+Loyal,25-34,Online,2.5,260,146.4
+Loyal,25-34,In-Store,2.6,207,190.66
+Loyal,25-34,Mobile App,2.5,220,146.68
+Loyal,25-34,Phone,2.7,425,186.04
+Loyal,35-44,Online,2.5,372,42.12
+Loyal,35-44,In-Store,2.4,379,111.22
+Loyal,35-44,Mobile App,2.8,305,257.63
+Loyal,35-44,Phone,2.8,410,150.57
+Loyal,45-54,Online,2.3,412,119.11
+Loyal,45-54,In-Store,2.8,385,77.36
+Loyal,45-54,Mobile App,2.9,328,147.62
+Loyal,45-54,Phone,2.6,397,99.11
+Loyal,55+,Online,2.5,327,131.21
+Loyal,55+,In-Store,2.7,399,103.53
+Loyal,55+,Mobile App,2.8,237,64.12
+Loyal,55+,Phone,3.0,494,26.06
+VIP,18-24,Online,2.5,308,151.0
+VIP,18-24,In-Store,2.9,410,147.84
+VIP,18-24,Mobile App,2.8,463,165.44
+VIP,18-24,Phone,3.3,421,156.51
+VIP,25-34,Online,2.8,266,53.02
+VIP,25-34,In-Store,2.9,533,218.62
+VIP,25-34,Mobile App,2.6,382,161.26
+VIP,25-34,Phone,3.0,393,89.94
+VIP,35-44,Online,2.4,212,30.8
+VIP,35-44,In-Store,2.9,363,152.36
+VIP,35-44,Mobile App,3.0,377,93.67
+VIP,35-44,Phone,3.1,458,178.12
+VIP,45-54,Online,2.4,320,120.87
+VIP,45-54,In-Store,2.5,304,104.73
+VIP,45-54,Mobile App,2.6,359,131.46
+VIP,45-54,Phone,2.9,497,140.83
+VIP,55+,Online,2.4,482,164.59
+VIP,55+,In-Store,2.8,533,156.05
+VIP,55+,Mobile App,3.2,306,109.35
+VIP,55+,Phone,3.2,308,46.9
