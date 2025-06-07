@@ -160,3 +160,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Data visualization best practices from Plotly and Streamlit documentation
 - Dashboard design inspiration from modern analytics platforms
+
+## Live Server
+
+https://businessanalyticsdashboard.onrender.com
